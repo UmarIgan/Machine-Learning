@@ -1,0 +1,8 @@
+
+langchain==0.0.247
+gpt4all
+chromadb
+pandas==1.5.3
+streamlit==1.25.0
+huggingface_hub==0.16.4
+llama-cpp-python
